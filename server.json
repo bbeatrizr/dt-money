@@ -23,7 +23,30 @@
       "category": "Alimentação",
       "price": 90,
       "createAt": "2022-07-28T19:20:00.505Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 15,
+      "category": "Venda",
+      "type": "income",
+      "createAt": "2024-04-10T18:49:57.432Z",
+      "id": "irk_gXl"
+    },
+    {
+      "description": "Albúm Taylor Swift",
+      "price": 1500,
+      "category": "Musica",
+      "type": "outcome",
+      "createAt": "2024-04-10T18:51:10.485Z",
+      "id": "ZpmNuNF"
+    },
+    {
+      "description": "Albúm Bon Jovi",
+      "price": 2500,
+      "category": "Musica",
+      "type": "income",
+      "createAt": "2024-04-10T18:51:57.776Z",
+      "id": "w0Vk3N6"
     }
   ]
-  
 }
